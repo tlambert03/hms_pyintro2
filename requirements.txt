@@ -1,0 +1,11 @@
+numpy
+jupyterlab
+napari[all]
+imageio
+tifffile
+scikit-image
+pims
+matplotlib
+nd2reader
+pims_nd2
+jpype1

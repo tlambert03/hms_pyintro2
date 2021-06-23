@@ -1,0 +1,18 @@
+"NDInfoFile", Version 2.0
+"Description", Nikon Imaging Center - Station 2: Lucille
+"StartTime1", 20210623 08:22:39
+"DoTimelapse", FALSE
+"NTimePoints", 1
+"DoStage", FALSE
+"DoWave", TRUE
+"NWavelengths", 2
+"WaveName1", "488"
+"WaveDoZ1", TRUE
+"WaveName2", "561"
+"WaveDoZ2", TRUE
+"DoZSeries", TRUE
+"NZSteps", 7
+"ZStepSize", 0
+"WaveInFileName", TRUE
+"NEvents", 0
+"EndFile"
